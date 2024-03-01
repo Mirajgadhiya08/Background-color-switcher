@@ -1,0 +1,48 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+span {
+    display: block;
+}
+
+.button {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#white {
+    background-color: white;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
